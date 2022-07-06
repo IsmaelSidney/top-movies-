@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  background-color: blueviolet;
+
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: .5s;
+}
+
+a:hover {
+  color: rgb(199, 196, 196);
+}
